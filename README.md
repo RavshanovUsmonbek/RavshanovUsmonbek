@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RavshanovUsmonbek
 - 👀 I’m interested in swimming
 - 🌱 I’m currently learning jenkins, docker, aws
-- 📫 To reach me, send an email to usmonravshanov@list.ru
+- 📫 To reach me, send an email to usmonbekravshanov@gmail.com
 
 <!---
 RavshanovUsmonbek/RavshanovUsmonbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
