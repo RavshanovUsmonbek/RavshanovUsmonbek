@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RavshanovUsmonbek
 - 👀 I’m interested in swimming
-- 🌱 I’m currently learning jenkins, docker, aws
+- 🌱 I’m currently learning Rust 🦀
 - 📫 To reach me, send an email to usmonbekravshanov@gmail.com
 
 <!---
